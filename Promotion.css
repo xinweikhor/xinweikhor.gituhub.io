@@ -1,0 +1,18 @@
+body{background-color: white;
+        color:black;}
+header{background-repeat: no-repeat;
+        padding-bottom: 1em;
+        height: 180px;
+        display:flex;}
+h1{text-align: center;
+    padding-left:50px;
+    padding-top: 50px;
+    color:black;}
+img{width:210px;
+    height:297px;}
+header img{width:120px;
+            height:120px;}
+h2{text-align: center;
+    padding-left: 50px;
+    padding-top: 50px;
+    color:black;}
