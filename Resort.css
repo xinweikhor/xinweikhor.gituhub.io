@@ -1,0 +1,9 @@
+img{width:350px;
+    height:250px;}
+body{background-color: black;
+    color:white;}
+nav li { padding: 0.5em;
+    display: inline-block;}
+nav a {display:block;}
+nav a:visited{color:white;}
+ul a:link{color:white;}
